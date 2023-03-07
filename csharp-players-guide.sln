@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24 - The Makings of a Progr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26 - Consolas and Telim", "26 - Consolas and Telim\26 - Consolas and Telim.csproj", "{81628301-89DF-4CD1-8F52-B1D6432D6E75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31 - The Thing Namer 3000", "31 - The Thing Namer 3000\31 - The Thing Namer 3000.csproj", "{3290A6E9-11B2-4FF2-A164-3BA2A7D8C99F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{81628301-89DF-4CD1-8F52-B1D6432D6E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81628301-89DF-4CD1-8F52-B1D6432D6E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81628301-89DF-4CD1-8F52-B1D6432D6E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3290A6E9-11B2-4FF2-A164-3BA2A7D8C99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3290A6E9-11B2-4FF2-A164-3BA2A7D8C99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3290A6E9-11B2-4FF2-A164-3BA2A7D8C99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3290A6E9-11B2-4FF2-A164-3BA2A7D8C99F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
