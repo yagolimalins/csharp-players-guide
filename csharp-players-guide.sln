@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 - Hello, World!", "19 - Hello, World!\19 - Hello, World!.csproj", "{2ECF6DF1-7EEF-470A-A0CE-C9EE5DFA3B88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19 - Hello, World!", "19 - Hello, World!\19 - Hello, World!.csproj", "{2ECF6DF1-7EEF-470A-A0CE-C9EE5DFA3B88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24 - What Comes Next", "24 - What Comes Next\24 - What Comes Next.csproj", "{F0C86587-197E-41DE-8E54-B5491CD0BFE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24 - What Comes Next", "24 - What Comes Next\24 - What Comes Next.csproj", "{F0C86587-197E-41DE-8E54-B5491CD0BFE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24 - The Makings of a Programmer", "24 - The Makings of a Programmer\24 - The Makings of a Programmer.csproj", "{6B47ECE0-8A6F-4C45-BE7D-2483DB40C87A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24 - The Makings of a Programmer", "24 - The Makings of a Programmer\24 - The Makings of a Programmer.csproj", "{6B47ECE0-8A6F-4C45-BE7D-2483DB40C87A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26 - Consolas and Telim", "26 - Consolas and Telim\26 - Consolas and Telim.csproj", "{81628301-89DF-4CD1-8F52-B1D6432D6E75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26 - Consolas and Telim", "26 - Consolas and Telim\26 - Consolas and Telim.csproj", "{81628301-89DF-4CD1-8F52-B1D6432D6E75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31 - The Thing Namer 3000", "31 - The Thing Namer 3000\31 - The Thing Namer 3000.csproj", "{3290A6E9-11B2-4FF2-A164-3BA2A7D8C99F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31 - The Thing Namer 3000", "31 - The Thing Namer 3000\31 - The Thing Namer 3000.csproj", "{3290A6E9-11B2-4FF2-A164-3BA2A7D8C99F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45 - The Variable Shop", "45 - The Variable Shop\45 - The Variable Shop.csproj", "{DA5395CE-56CD-466E-925E-7A9FA4AAA380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45 - The Variable Shop Returns", "45 - The Variable Shop Returns\45 - The Variable Shop Returns.csproj", "{49108985-D481-48A8-9A8A-D413FD1000A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{3290A6E9-11B2-4FF2-A164-3BA2A7D8C99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3290A6E9-11B2-4FF2-A164-3BA2A7D8C99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3290A6E9-11B2-4FF2-A164-3BA2A7D8C99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5395CE-56CD-466E-925E-7A9FA4AAA380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5395CE-56CD-466E-925E-7A9FA4AAA380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5395CE-56CD-466E-925E-7A9FA4AAA380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5395CE-56CD-466E-925E-7A9FA4AAA380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49108985-D481-48A8-9A8A-D413FD1000A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49108985-D481-48A8-9A8A-D413FD1000A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49108985-D481-48A8-9A8A-D413FD1000A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49108985-D481-48A8-9A8A-D413FD1000A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
