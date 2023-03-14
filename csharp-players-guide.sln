@@ -13,9 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26 - Consolas and Telim", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31 - The Thing Namer 3000", "31 - The Thing Namer 3000\31 - The Thing Namer 3000.csproj", "{3290A6E9-11B2-4FF2-A164-3BA2A7D8C99F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45 - The Variable Shop", "45 - The Variable Shop\45 - The Variable Shop.csproj", "{DA5395CE-56CD-466E-925E-7A9FA4AAA380}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "45 - The Variable Shop", "45 - The Variable Shop\45 - The Variable Shop.csproj", "{DA5395CE-56CD-466E-925E-7A9FA4AAA380}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45 - The Variable Shop Returns", "45 - The Variable Shop Returns\45 - The Variable Shop Returns.csproj", "{49108985-D481-48A8-9A8A-D413FD1000A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "45 - The Variable Shop Returns", "45 - The Variable Shop Returns\45 - The Variable Shop Returns.csproj", "{49108985-D481-48A8-9A8A-D413FD1000A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "53 - The Triangle Farmer", "53 - The Triangle Farmer\53 - The Triangle Farmer.csproj", "{CE3D3B43-29C2-4A6F-BF57-51F3DE2D5DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56 - The Four Sisters and the Duckbear", "56 - The Four Sisters and the Duckbear\56 - The Four Sisters and the Duckbear.csproj", "{77793180-B83B-41F3-BED1-C5E0A1A44800}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{49108985-D481-48A8-9A8A-D413FD1000A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49108985-D481-48A8-9A8A-D413FD1000A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49108985-D481-48A8-9A8A-D413FD1000A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3D3B43-29C2-4A6F-BF57-51F3DE2D5DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3D3B43-29C2-4A6F-BF57-51F3DE2D5DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3D3B43-29C2-4A6F-BF57-51F3DE2D5DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3D3B43-29C2-4A6F-BF57-51F3DE2D5DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77793180-B83B-41F3-BED1-C5E0A1A44800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77793180-B83B-41F3-BED1-C5E0A1A44800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77793180-B83B-41F3-BED1-C5E0A1A44800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77793180-B83B-41F3-BED1-C5E0A1A44800}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
