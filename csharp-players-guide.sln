@@ -19,7 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "45 - The Variable Shop Retu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "53 - The Triangle Farmer", "53 - The Triangle Farmer\53 - The Triangle Farmer.csproj", "{CE3D3B43-29C2-4A6F-BF57-51F3DE2D5DBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56 - The Four Sisters and the Duckbear", "56 - The Four Sisters and the Duckbear\56 - The Four Sisters and the Duckbear.csproj", "{77793180-B83B-41F3-BED1-C5E0A1A44800}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "56 - The Four Sisters and the Duckbear", "56 - The Four Sisters and the Duckbear\56 - The Four Sisters and the Duckbear.csproj", "{77793180-B83B-41F3-BED1-C5E0A1A44800}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "57 - The Dominion of Kings", "57 - The Dominion of Kings\57 - The Dominion of Kings.csproj", "{5E40712C-0690-4E32-B3DA-FDEAB8969ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "68 - The Defense of Consolas", "68 - The Defense of Consolas\68 - The Defense of Consolas.csproj", "{9FBFEB0B-E5AA-4F68-BB40-525498FDC606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75 - Repairing the Clocktower", "75 - Repairing the Clocktower\75 - Repairing the Clocktower.csproj", "{49892A08-E864-4284-AAD1-609508BB4109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "78 - Watchtower", "78 - Watchtower\78 - Watchtower.csproj", "{A72050AD-6296-4D22-ACCA-7A41C4DCB9B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +71,22 @@ Global
 		{77793180-B83B-41F3-BED1-C5E0A1A44800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77793180-B83B-41F3-BED1-C5E0A1A44800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77793180-B83B-41F3-BED1-C5E0A1A44800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E40712C-0690-4E32-B3DA-FDEAB8969ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E40712C-0690-4E32-B3DA-FDEAB8969ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E40712C-0690-4E32-B3DA-FDEAB8969ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E40712C-0690-4E32-B3DA-FDEAB8969ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FBFEB0B-E5AA-4F68-BB40-525498FDC606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBFEB0B-E5AA-4F68-BB40-525498FDC606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBFEB0B-E5AA-4F68-BB40-525498FDC606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBFEB0B-E5AA-4F68-BB40-525498FDC606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49892A08-E864-4284-AAD1-609508BB4109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49892A08-E864-4284-AAD1-609508BB4109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49892A08-E864-4284-AAD1-609508BB4109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49892A08-E864-4284-AAD1-609508BB4109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72050AD-6296-4D22-ACCA-7A41C4DCB9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72050AD-6296-4D22-ACCA-7A41C4DCB9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72050AD-6296-4D22-ACCA-7A41C4DCB9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72050AD-6296-4D22-ACCA-7A41C4DCB9B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
