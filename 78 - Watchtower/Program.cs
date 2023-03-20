@@ -15,7 +15,7 @@ else if (x == 0)
 {
     if (y > 0) location = "N";
     else if (y == 0) location = "here";
-    else if (y < 0) location = "SW";
+    else if (y < 0) location = "S";
 }
 else if (x > 0)
 {
