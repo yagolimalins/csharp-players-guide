@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75 - Repairing the Clocktow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "78 - Watchtower", "78 - Watchtower\78 - Watchtower.csproj", "{A72050AD-6296-4D22-ACCA-7A41C4DCB9B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "82 - Buying Inventory", "82 - Buying Inventory\82 - Buying Inventory.csproj", "{9E9A46AA-DAF8-4902-BED9-8765ED01A8E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83 - Discounted Inventory", "83 - Discounted Inventory\83 - Discounted Inventory.csproj", "{173CFFA4-9D1A-4132-B35E-6A8C48AB6C5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{A72050AD-6296-4D22-ACCA-7A41C4DCB9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A72050AD-6296-4D22-ACCA-7A41C4DCB9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A72050AD-6296-4D22-ACCA-7A41C4DCB9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9A46AA-DAF8-4902-BED9-8765ED01A8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9A46AA-DAF8-4902-BED9-8765ED01A8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9A46AA-DAF8-4902-BED9-8765ED01A8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9A46AA-DAF8-4902-BED9-8765ED01A8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173CFFA4-9D1A-4132-B35E-6A8C48AB6C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173CFFA4-9D1A-4132-B35E-6A8C48AB6C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173CFFA4-9D1A-4132-B35E-6A8C48AB6C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173CFFA4-9D1A-4132-B35E-6A8C48AB6C5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
