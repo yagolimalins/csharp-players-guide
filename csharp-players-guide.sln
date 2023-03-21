@@ -23,15 +23,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "56 - The Four Sisters and t
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "57 - The Dominion of Kings", "57 - The Dominion of Kings\57 - The Dominion of Kings.csproj", "{5E40712C-0690-4E32-B3DA-FDEAB8969ACD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "68 - The Defense of Consolas", "68 - The Defense of Consolas\68 - The Defense of Consolas.csproj", "{9FBFEB0B-E5AA-4F68-BB40-525498FDC606}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "68 - The Defense of Consolas", "68 - The Defense of Consolas\68 - The Defense of Consolas.csproj", "{9FBFEB0B-E5AA-4F68-BB40-525498FDC606}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75 - Repairing the Clocktower", "75 - Repairing the Clocktower\75 - Repairing the Clocktower.csproj", "{49892A08-E864-4284-AAD1-609508BB4109}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "75 - Repairing the Clocktower", "75 - Repairing the Clocktower\75 - Repairing the Clocktower.csproj", "{49892A08-E864-4284-AAD1-609508BB4109}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "78 - Watchtower", "78 - Watchtower\78 - Watchtower.csproj", "{A72050AD-6296-4D22-ACCA-7A41C4DCB9B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "78 - Watchtower", "78 - Watchtower\78 - Watchtower.csproj", "{A72050AD-6296-4D22-ACCA-7A41C4DCB9B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "82 - Buying Inventory", "82 - Buying Inventory\82 - Buying Inventory.csproj", "{9E9A46AA-DAF8-4902-BED9-8765ED01A8E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "82 - Buying Inventory", "82 - Buying Inventory\82 - Buying Inventory.csproj", "{9E9A46AA-DAF8-4902-BED9-8765ED01A8E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83 - Discounted Inventory", "83 - Discounted Inventory\83 - Discounted Inventory.csproj", "{173CFFA4-9D1A-4132-B35E-6A8C48AB6C5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "83 - Discounted Inventory", "83 - Discounted Inventory\83 - Discounted Inventory.csproj", "{173CFFA4-9D1A-4132-B35E-6A8C48AB6C5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88 - The Prototype", "88 - The Prototype\88 - The Prototype.csproj", "{8496EA83-F822-434E-A7A1-A9CE0B3338F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "89 - The Magic Cannon", "89 - The Magic Cannon\89 - The Magic Cannon.csproj", "{EDE0C77E-C996-46D6-98A4-D859B482E359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "94 - The Replicator of D’To", "94 - The Replicator of D’To\94 - The Replicator of D’To.csproj", "{ADBE1791-24B6-4C2A-9E8A-95EA666F5FB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "95 - The Laws of Freach", "95 - The Laws of Freach\95 - The Laws of Freach.csproj", "{0D215CF2-756F-4004-9FF9-FF90A66F9A48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "106 - Taking a Number", "106 - Taking a Number\106 - Taking a Number.csproj", "{F24EFD7F-2191-46D5-92BB-907F0884D850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "107 - Countdown", "107 - Countdown\107 - Countdown.csproj", "{3B142AB1-39D4-4E7D-9030-4D64569D1B89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +111,30 @@ Global
 		{173CFFA4-9D1A-4132-B35E-6A8C48AB6C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{173CFFA4-9D1A-4132-B35E-6A8C48AB6C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{173CFFA4-9D1A-4132-B35E-6A8C48AB6C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8496EA83-F822-434E-A7A1-A9CE0B3338F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8496EA83-F822-434E-A7A1-A9CE0B3338F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8496EA83-F822-434E-A7A1-A9CE0B3338F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8496EA83-F822-434E-A7A1-A9CE0B3338F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE0C77E-C996-46D6-98A4-D859B482E359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE0C77E-C996-46D6-98A4-D859B482E359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE0C77E-C996-46D6-98A4-D859B482E359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE0C77E-C996-46D6-98A4-D859B482E359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBE1791-24B6-4C2A-9E8A-95EA666F5FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBE1791-24B6-4C2A-9E8A-95EA666F5FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBE1791-24B6-4C2A-9E8A-95EA666F5FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBE1791-24B6-4C2A-9E8A-95EA666F5FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D215CF2-756F-4004-9FF9-FF90A66F9A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D215CF2-756F-4004-9FF9-FF90A66F9A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D215CF2-756F-4004-9FF9-FF90A66F9A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D215CF2-756F-4004-9FF9-FF90A66F9A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24EFD7F-2191-46D5-92BB-907F0884D850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24EFD7F-2191-46D5-92BB-907F0884D850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24EFD7F-2191-46D5-92BB-907F0884D850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24EFD7F-2191-46D5-92BB-907F0884D850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B142AB1-39D4-4E7D-9030-4D64569D1B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B142AB1-39D4-4E7D-9030-4D64569D1B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B142AB1-39D4-4E7D-9030-4D64569D1B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B142AB1-39D4-4E7D-9030-4D64569D1B89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
